@@ -2,7 +2,7 @@
 
 namespace FoodMachine.App.Common.EventArgs
 {
-    public class DishSelectedEventArgs
+    public class DishSelectedEventArgs : System.EventArgs
     {
         public DishSelectedEventArgs(Type dishType)
         {

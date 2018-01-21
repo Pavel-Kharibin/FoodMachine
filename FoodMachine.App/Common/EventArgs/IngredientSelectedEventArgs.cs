@@ -2,7 +2,7 @@
 
 namespace FoodMachine.App.Common.EventArgs
 {
-    public class IngredientSelectedEventArgs
+    public class IngredientSelectedEventArgs : System.EventArgs
     {
         public IngredientSelectedEventArgs(Type ingredientType, int count)
         {
