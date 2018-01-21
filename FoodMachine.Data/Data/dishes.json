@@ -1,0 +1,62 @@
+﻿[
+  {
+    "Id": 1,
+    "Name": "Вода",
+    "Type": "Drink",
+    "Ingredients": []
+  },
+  {
+    "Id": 2,
+    "Name": "Эспрессо",
+    "Type": "Drink",
+    "Ingredients": []
+  },
+  {
+    "Id": 3,
+    "Name": "Латте",
+    "Type": "Drink",
+    "Ingredients": []
+  },
+  {
+    "Id": 4,
+    "Name": "Капучино",
+    "Type": "Drink",
+    "Ingredients": []
+  },
+  {
+    "Id": 5,
+    "Name": "Чай черный",
+    "Type": "Drink",
+    "Ingredients": []
+  },
+  {
+    "Id": 6,
+    "Name": "Чай зеленый",
+    "Type": "Drink",
+    "Ingredients": []
+  },
+  {
+    "Id": 7,
+    "Name": "Хлеб",
+    "Type": "Food",
+    "Ingredients": []
+  },
+  {
+    "Id": 8,
+    "Name": "Булочка",
+    "Type": "Food",
+    "Ingredients": []
+  },
+  {
+    "Id": 9,
+    "Name": "Чипсы",
+    "Type": "Food",
+    "Ingredients": []
+  },
+  {
+    "Id": 10,
+    "Name": "Печенье",
+    "Type": "Food",
+    "Ingredients": []
+  }
+]
